@@ -1,0 +1,8 @@
+id,team,possession,possession in contest,scored,shots,conceded,goal inside the penalty area,goal outside the penalty area,assists,shots on target,shots off target,shots inside the penalty area,shots outside the penalty area,attempted line breaks,completed line breaks,yellow cards,red cards,fouls commited,offsides,passes,passes completed,crosses,crosses completed,corners,free kicks,penalties scored,forced turnovers,defensive pressures applied
+4,ARGENTINA,64%,12%,1,14,2,1,0,0,6,5,10,4,191,127,0,0,7,10,610,529,29,12,9,22,1,65,163
+23,ARGENTINA,50%,14%,2,5,0,1,1,2,2,3,2,3,150,100,1,0,15,2,533,464,14,2,4,23,0,63,220
+38,ARGENTINA,67%,9%,2,25,0,2,0,2,13,8,21,4,214,188,1,0,11,0,862,814,22,5,9,5,0,48,141
+49,ARGENTINA,53%,12%,2,14,1,2,0,1,5,7,11,3,181,135,0,0,8,4,711,635,6,1,1,15,0,67,240
+57,ARGENTINA,44%,11%,2,15,2,2,0,1,6,8,5,10,203,122,8,0,18,2,603,511,16,4,8,30,1,79,323
+60,ARGENTINA,34%,12%,3,10,0,3,0,1,7,2,7,3,147,91,2,0,15,1,408,344,8,2,2,6,1,85,321
+63,ARGENTINA,46%,14%,3,21,3,3,0,1,9,9,10,11,223,151,4,0,26,4,648,544,20,4,6,22,1,87,280
